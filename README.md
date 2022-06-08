@@ -12,5 +12,5 @@ This project is a steppingstone to encouraging further research on the applicati
 [1] F. Fenton and A. Karma, “Vortex dynamics in three-dimensional continuous myocardium with fiber rotation: Filament instability and fibrillation a…,” 1998. [Online]. Available: http://ojps.aip.org/chaos/chocr.jsp
 
 ## Diagram of the EP-PINN
-![alt text](https://github.com/ariehlev/EP-PINNs/blob/[branch]/image.jpg?raw=true)
-/Users/arieh/Desktop/EP-PINNs/Results/PINN diagram/PINNs diagram.png
+![alt text]([https://github.com/ariehlev/EP-PINNs/blob/[branch]/image.jpg?raw=true](https://github.com/ariehlev/EP-PINNs/blob/main/Results/PINN%20diagram/PINNs%20diagram.png))
+
