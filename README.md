@@ -17,6 +17,8 @@ This project is a steppingstone to encouraging further research on the applicati
 
 [1] F. Fenton and A. Karma, “Vortex dynamics in three-dimensional continuous myocardium with fiber rotation: Filament instability and fibrillation a…,” 1998. [Online]. Available: http://ojps.aip.org/chaos/chocr.jsp
 
+## Results Summary
 
+The forward solution results are promising with very low RMSE errors, robust to low and moderate noise levels, and solid with very low data availability. For the parameter estimation on the synthetic data, the RMSE is comparable to that of the forward model, and the RE was primarily low, but it varied between parameters. Finally, on the experimental data, statistically significant changes in the relevant parameters were found for E-4031 but only a few for Nifedipine.
 
 
