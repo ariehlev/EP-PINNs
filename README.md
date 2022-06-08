@@ -4,7 +4,7 @@ Repository holding the code and data for the project: Characterisation of the el
 ![alt text](https://github.com/ariehlev/EP-PINNs/blob/main/Results/PINN%20diagram/PINNs%20diagram.png?raw=true)
 
 <p align="center">
-    <b><style="font-size:20px">EP-PINN diagram</b>
+    <b><style="font-size:60px">EP-PINN diagram</b>
 </p>
 
 ## Abstract
