@@ -1,6 +1,8 @@
 # EP-PINNs
 Repository holding the code and data for the project: Characterisation of the electrical properties of the human atrium using Physics-Inspired Neural Networks (PINNs)
 
+![alt text](https://github.com/ariehlev/EP-PINNs/blob/main/Results/PINN%20diagram/PINNs%20diagram.png?raw=true)
+
 ## Abstract
 
 Cardiac arrhythmia, particularly atrial fibrillation (AF), does not yet have successful treatments despite being one of the most common diseases globally. It is anticipated that the ability to correctly estimate fundamental electrophysiological (EP) cardiac properties will improve the treatment and diagnosis of arrhythmias like AF by allowing the personalisation of treatment. However, this is not an easy task.
@@ -12,6 +14,6 @@ This project is a steppingstone to encouraging further research on the applicati
 [1] F. Fenton and A. Karma, “Vortex dynamics in three-dimensional continuous myocardium with fiber rotation: Filament instability and fibrillation a…,” 1998. [Online]. Available: http://ojps.aip.org/chaos/chocr.jsp
 
 ## Diagram of the EP-PINN
-![alt text](https://github.com/ariehlev/EP-PINNs/blob/main/Results/PINN%20diagram/PINNs%20diagram.png?raw=true)
+
 
 
