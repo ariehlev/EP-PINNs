@@ -3,6 +3,8 @@ Repository holding the code and data for the project: Characterisation of the el
 
 ![alt text](https://github.com/ariehlev/EP-PINNs/blob/main/Results/PINN%20diagram/PINNs%20diagram.png?raw=true)
 
+*Image caption*
+
 ## Abstract
 
 Cardiac arrhythmia, particularly atrial fibrillation (AF), does not yet have successful treatments despite being one of the most common diseases globally. It is anticipated that the ability to correctly estimate fundamental electrophysiological (EP) cardiac properties will improve the treatment and diagnosis of arrhythmias like AF by allowing the personalisation of treatment. However, this is not an easy task.
