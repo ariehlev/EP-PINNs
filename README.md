@@ -1,7 +1,8 @@
 # EP-PINNs
 Repository holding the code and data for the project: Characterisation of the electrical properties of the human atrium using Physics-Inspired Neural Networks (PINNs)
 
-![alt text](https://github.com/ariehlev/EP-PINNs/blob/main/Results/PINN%20diagram/PINNs%20diagram.png?raw=true)
+![alt text](https://github.com/ariehlev/EP-PINNs/blob/main/Results/EP-PINN%20diagram/PINNs%20diagram.png?raw=true)
+
 
 <p align="center">
     <b>EP-PINN diagram</b>
